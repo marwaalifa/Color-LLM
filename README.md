@@ -50,5 +50,3 @@ Please make sure to update tests as appropriate.
 Hit me up On : {Insert Contact}
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
