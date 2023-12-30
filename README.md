@@ -2,6 +2,8 @@
 
 Colorgraphics is an assistant designed to provide color recommendations for
 users who may find themselves at a creative impasse during the production of their products.
+![coder](https://github.com/marwaalifa/Color-LLM/assets/71803646/067015da-171c-429e-84cd-6c53bb35ba0e)
+
 
 ## Installation
 
