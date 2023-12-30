@@ -49,4 +49,9 @@ match the user's style, simplify the work of color designers, and speed up the p
 Please make sure to update tests as appropriate.
 Hit me up On : {Insert Contact}
 
+
+
+## YouTube Tutorial on this Project
+[![YouTube Tutorial](https://img.youtube.com/vi/lKAdxN0qrgk/0.jpg)](https://youtu.be/7YapHuwoIaE?si=_EDtaNotTOFcoiCd)
+
 ## License
