@@ -52,6 +52,6 @@ Hit me up On : {Insert Contact}
 
 
 ## YouTube Tutorial on this Project
-[![YouTube Tutorial](https://img.youtube.com/vi/lKAdxN0qrgk/0.jpg)](https://youtu.be/7YapHuwoIaE?si=_EDtaNotTOFcoiCd)
+[![YouTube Tutorial]([https://youtu.be/7YapHuwoIaE?si=_EDtaNotTOFcoiCd](https://youtu.be/7YapHuwoIaE)https://youtu.be/7YapHuwoIaE)
 
 ## License
